@@ -1,0 +1,9 @@
+Willard Sullivan, 5/19/2020
+
+This is my first website from scratch!
+
+I will be using VSCode to write HTML, and will use UIUC cPanel to host.
+
+I want to learn more about websites and HTML
+
+This website will showcase my work and efforts in engineering.
